@@ -1,0 +1,13 @@
+{
+	"name": "com.cetejs.packagetool",
+	"displayName": "Package Tool",
+	"description": "Package tools",
+	"version": "1.0.0",
+	"unity": "2022.3",
+	"license": "MIT",
+	"author" : {
+		"name": "Cetejs",
+		"email": "cetejs@gmail.com",
+		"url": "https://github.com/cetejs"
+	}
+}
